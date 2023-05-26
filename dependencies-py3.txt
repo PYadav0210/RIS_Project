@@ -1,0 +1,8 @@
+rospy
+sensor_msgs
+cv_bridge
+opencv-python
+numpy
+geometry_msgs
+robot_msgs
+mediapipe
