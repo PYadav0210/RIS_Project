@@ -1,7 +1,6 @@
-# Template: template-ros
+# Ball Tracking and Gesture Recognition
 
-This template provides a boilerplate repository
-for developing ROS-based software in Duckietown.
+In this Project, We have used Computer vision and ROS method to Track Ball and HandLandmarks mediapipe to Detect Gesture.
 
 **NOTE:** If you want to develop software that does not use
 ROS, check out [this template](https://github.com/duckietown/template-basic).
